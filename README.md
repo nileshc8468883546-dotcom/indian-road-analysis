@@ -1,8 +1,8 @@
-# indian-road-analysi## 🚗 Indian Road Accident Analysis Dashboard | Power BI
+# indian-road-analysi## 🚗 Indian Road Accident Analysis Dashboard | 
 
  ### 📌 Project Overview
 
- Developed an interactive **Power BI dashboard** to analyze Indian road accident data and identify patterns across states, road types, traffic density, accident severity, risk levels, and accident causes. The dashboard covers **20,000 accidents and 34,529 casualties** and uses interactive filters for **State, Risk Category, Time Period, and Road Type** to make the analysis easy to explore.
+ Developed an interactive **Excel dashboard** to analyze Indian road accident data and identify patterns across states, road types, traffic density, accident severity, risk levels, and accident causes. The dashboard covers **20,000 accidents and 34,529 casualties** and uses interactive filters for **State, Risk Category, Time Period, and Road Type** to make the analysis easy to explore.
 
  ### 🔍 Key Insights
 
@@ -16,7 +16,7 @@
 
  ### 🛠️ Tools & Skillset
 
- **Power BI | DAX | Data Analysis | Data Visualization | Data Storytelling | Dashboard Design | KPI Development | Interactive Filters | Business Intelligence**
+ **Excel | DAX | Data Analysis | Data Visualization | Data Storytelling | Dashboard Design | KPI Development | Interactive Filters **
 
  ### 📚 What I Learned
 
@@ -24,4 +24,4 @@
 
  Most importantly, I learned that **good data visualization is not just about making charts—it’s about creating a clear flow that helps users understand the story behind the data.**
 
- #PowerBI #DataAnalytics #DataAnalyst #DataVisualization #DAX #BusinessIntelligence #Dashboard #DataStorytelling #AnalyticsProject #PortfolioProject
+ #Excel #DataAnalytics #DataAnalyst #DataVisualization #DAX #BusinessIntelligence #Dashboard #DataStorytelling #AnalyticsProject #PortfolioProject
